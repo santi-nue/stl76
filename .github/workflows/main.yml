@@ -25,7 +25,7 @@ jobs:
 
     - name: Run API requests
       run: python getdata.py
-      continue-on-error: true
+      
 
 
     
